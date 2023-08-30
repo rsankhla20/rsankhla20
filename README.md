@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rakesh Sankhla.
 - 👀 I’m interested in Data Structures & Algorithms, Competitive Coding, Machine Learning & Full stack web development.
 - 🌱 I’m currently learning Data Structures & Algorithms & Web Development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Mail me at "sankhlarakesh4321@gamil.com" or "rsankhla20@iitk.ac.in".
 
 <!---
